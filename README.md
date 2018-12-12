@@ -2,7 +2,7 @@
 
 ## What is this?
 
-These are my solutions for [Advent of Code 2018](https://adventofcode.com/2017).
+These are my solutions for [Advent of Code 2017](https://adventofcode.com/2017).
 
 Because I primarily write Python for my day job, I am writing these in Python
 for the sake of getting them done. I make no guarantees that these are the
