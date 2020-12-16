@@ -1,4 +1,4 @@
-"""Day 21: virus alert"""
+"""Day 22: virus alert"""
 import enum
 from typing import List, Dict, Tuple, Union
 from collections import defaultdict
